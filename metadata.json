@@ -1,0 +1,6 @@
+{
+  "name": "Corporate Affairs Portal - Government of India",
+  "description": "Authentic and accessible Indian Government-style Ministry information website inspired by the Ministry of Corporate Affairs (MCA) on India.gov.in.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
